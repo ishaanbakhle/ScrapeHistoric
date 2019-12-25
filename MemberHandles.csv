@@ -1,0 +1,570 @@
+,Name,Handle
+0,@RepRossSpano,RepRossSpano
+1,Congressman Jim Baird,RepJimBaird
+2,Congressman Jim Hagedorn,RepHagedorn
+3,Rep. Sean Casten,RepCasten
+4,Congressman Jeff Van Drew,CongressmanJVD
+5,Congressman Greg Steube,RepGregSteube
+6,Congresswoman Kendra Horn,RepKendraHorn
+7,Rep. Chip Roy,RepChipRoy
+8,Congressman Chuy García,RepChuyGarcia
+9,Rep. Michael Waltz,RepMichaelWaltz
+10,Rep. Lucy McBath,RepLucyMcBath
+11,Rep. Greg Pence,RepGregPence
+12,Rep. Ilhan Omar,Ilhan
+13,John Joyce,RepJohnJoyce
+14,Jahana Hayes,RepJahanaHayes
+15,Rep. Ed Case,RepEdCase
+16,Carol Miller,RepCarolMiller
+17,John Rose,RepJohnRose
+18,Abby Finkenauer,RepFinkenauer
+19,Congressman Michael Guest,RepMichaelGuest
+20,Rep. Ann Kirkpatrick,RepKirkpatrick
+21,Rep. Katie Porter,RepKatiePorter
+22,Rep. Gil Cisneros,RepGilCisneros
+23,Rep. Anthony Brindisi,RepBrindisi
+24,Senator Hawley Press Office,SenHawleyPress
+25,Rep. Debbie Mucarsel-Powell,RepDMP
+26,Rep. Tom Malinowski,RepMalinowski
+27,Rep. Dan Crenshaw,RepDanCrenshaw
+28,Congressman Jared Golden,RepGolden
+29,Greg Stanton,RepGregStanton
+30,Congressman TJ Cox,RepTjCox
+31,Senator Mike Braun,SenatorBraun
+32,Rep. Cindy Axne,RepCindyAxne
+33,Ron Wright,RepRonWright
+34,Rep. Josh Harder,RepJoshHarder
+35,Rep. Xochitl Torres Small,RepTorresSmall
+36,Rep. Deb Haaland,RepDebHaaland
+37,Rep. Sylvia Garcia,RepSylviaGarcia
+38,Congresswoman Ayanna Pressley,RepPressley
+39,Congressman Dan Meuser,RepMeuser
+40,Rep. David Trone,RepDavidTrone
+41,Rep. Mikie Sherrill,RepSherrill
+42,Lauren Underwood,RepUnderwood
+43,Rep. Sharice Davids,RepDavids
+44,Congressman Kelly Armstrong,RepArmstrongND
+45,Congressman Denver Riggleman,RepRiggleman
+46,Congressman Antonio Delgado,repdelgado
+47,Rep. Mark Green,RepMarkGreen
+48,Rep. Kim Schrier,RepKimSchrier
+49,Rep. Steve Watkins,Rep_Watkins
+50,Representative Elaine Luria,RepElaineLuria
+51,Rep. Andy Levin,RepAndyLevin
+52,Angie Craig,RepAngieCraig
+53,Rep. Joe Cunningham,RepCunningham
+54,Rep. Jason Crow,RepJasonCrow
+55,Congresswoman Lori Trahan,RepLoriTrahan
+56,Congressman William Timmons,RepTimmons
+57,Congresswoman Rashida Tlaib,RepRashida
+58,Rep. Alexandria Ocasio-Cortez,RepAOC
+59,Rep. Susie Lee,RepSusieLee
+60,RepAndyKim,RepAndyKimNJ
+61,Rep. Abigail Spanberger,RepSpanberger
+62,Rep. Joe Neguse,RepJoeNeguse
+63,Rep. Russ Fulcher,RepRussFulcher
+64,Senator Mitt Romney,SenatorRomney
+65,Rep. Max Rose,RepMaxRose
+66,Rep. Elissa Slotkin,RepSlotkin
+67,Rep. Colin Allred,RepColinAllred
+68,Rep. Haley Stevens,RepHaleyStevens
+69,Rep. Lizzie Fletcher,RepFletcher
+70,Pete Stauber,RepPeteStauber
+71,Rep. Veronica Escobar,RepEscobar
+72,Bryan Steil,RepBryanSteil
+73,Rep. Harley Rouda,RepHarley
+74,Rep Van Taylor,RepVanTaylor
+75,Rep. Dusty Johnson,RepDustyJohnson
+76,Congressman Ben Cline,RepBenCline
+77,Rep. Mike Levin,RepMikeLevin
+78,Rep. Susan Wild,RepSusanWild
+79,Rep. Katie Hill,RepKatieHill
+80,Kevin Hern,repkevinhern
+81,Congressman Chris Pappas,RepChrisPappas
+82,Congresswoman Mary Gay Scanlon,RepMGS
+83,Joe Morelle,RepJoeMorelle
+84,Rep. Dean Phillips,RepDeanPhillips
+85,Rep. Donna E. Shalala,RepShalala
+86,Rep. Anthony Gonzalez,RepAGonzalez
+87,Chrissy Houlahan,RepHoulahan
+88,Michael Cloud,RepCloudTX
+89,Congressman Troy Balderson,RepBalderson
+90,Rep. Tim Burchett,RepTimBurchett
+91,Rep. Jennifer Wexton,RepWexton
+92,"U.S. Senator Bill Cassidy, M.D.",SenBillCassidy
+93,Congresswoman Debbie Lesko,RepDLesko
+94,Conor Lamb,RepConorLamb
+95,U.S. Senator Cindy Hyde-Smith,SenHydeSmith
+96,Doug Jones,SenDougJones
+97,Senator Tina Smith,SenTinaSmith
+98,Rep. John Curtis,RepJohnCurtis
+99,Sen. Kirsten Gillibrand,gillibrandny
+100,Rep. Ralph Norman,RepRalphNorman
+101,Rep. Ron Estes,RepRonEstes
+102,Rep. Clay Higgins,RepClayHiggins
+103,Rep. John Rutherford,RepRutherfordFL
+104,Rep. Mike Johnson,RepMikeJohnson
+105,Jenniffer González,RepJenniffer
+106,Rep. Don Bacon,RepDonBacon
+107,Rep. Matt Gaetz,RepMattGaetz
+108,US Rep. Darren Soto,RepDarrenSoto
+109,Senator Jacky Rosen,SenJackyRosen
+110,Rep. Vicente Gonzalez,RepGonzalez
+111,US Rep. Al Lawson Jr,RepAlLawsonJr
+112,Ted Budd,RepTedBudd
+113,Adriano Espaillat,RepEspaillat
+114,Rep. Blunt Rochester,RepLBR
+115,Nanette D. Barragán,RepBarragan
+116,Rep. Liz Cheney,RepLizCheney
+117,Tom Suozzi,RepTomSuozzi
+118,John Kennedy,SenJohnKennedy
+119,Rep Andy Biggs,RepAndyBiggsAZ
+120,Brian Fitzpatrick,RepBrianFitz
+121,Rep. Ro Khanna,RepRoKhanna
+122,Rep. Arrington,RepArrington
+123,Rep. Donald McEachin,RepMcEachin
+124,Rep. Salud Carbajal,RepCarbajal
+125,Francis Rooney,RepRooney
+126,Rep. Charlie Crist,RepCharlieCrist
+127,Rep. David Kustoff,RepDavidKustoff
+128,Rep. Lou Correa,RepLouCorrea
+129,Rep. Mike Gallagher,RepGallagher
+130,Dr. Neal Dunn,DrNealDunnFL2
+131,Rep. Pramila Jayapal,RepJayapal
+132,Rep Josh Gottheimer,RepJoshG
+133,Raja Krishnamoorthi,CongressmanRaja
+134,Rep. Brian Mast,RepBrianMast
+135,Trey Hollingsworth,RepTrey
+136,Rep. Paul Mitchell,RepPaulMitchell
+137,Senator Cortez Masto,SenCortezMasto
+138,Rep. Tom O'Halleran,RepOHalleran
+139,Rep. Jamie Raskin,RepRaskin
+140,Drew Ferguson,RepDrewFerguson
+141,Kamala Harris,SenKamalaHarris
+142,Rep. Val Demings,RepValDemings
+143,Rep. Jimmy Panetta,RepJimmyPanetta
+144,Rep. Stephanie Murphy,RepStephMurphy
+145,Rep. Roger Marshall,RepMarshall
+146,Warren Davidson,WarrenDavidson
+147,Rep. Brendan Boyle,CongBoyle
+148,Rep. Guy Reschenthaler,GReschenthaler
+149,Darin LaHood,RepLaHood
+150,Trent Kelly,RepTrentKelly
+151,Donald Norcross,DonaldNorcross
+152,Rep. Ted Lieu,RepTedLieu
+153,Rep. Aumua Amata,RepAmata
+154,Rep. Pete Aguilar,RepPeteAguilar
+155,Rep. Glenn Grothman,RepGrothman
+156,Rep. Jody Hice,CongressmanHice
+157,Buddy Carter,RepBuddyCarter
+158,Kathleen Rice,RepKathleenRice
+159,Rep. Debbie Dingell,RepDebDingell
+160,Rep. Bonnie Watson Coleman,RepBonnie
+161,Mark DeSaulnier,RepDeSaulnier
+162,John Katko,RepJohnKatko
+163,Ruben Gallego,RepRubenGallego
+164,Rep. Mark Walker,RepMarkWalker
+165,Martha McSally,SenMcSallyAZ
+166,Rep. Mike Bost,RepBost
+167,Rep. Alex Mooney,RepAlexMooney
+168,Rick W. Allen,RepRickAllen
+169,Senator Thom Tillis,SenThomTillis
+170,Rep. Will Hurd,HurdOnTheHill
+171,Senator Ben Sasse,SenSasse
+172,Rep. Ralph Abraham,RepAbraham
+173,Rep. Don Beyer,RepDonBeyer
+174,Rep. Elise Stefanik,RepStefanik
+175,Senator Mike Rounds,SenatorRounds
+176,French Hill,RepFrenchHill
+177,Rep. Garret Graves,RepGarretGraves
+178,Rep. Dan Newhouse,RepNewhouse
+179,Brian Babin,RepBrianBabin
+180,Alma S. Adams,RepAdams
+181,Tom Emmer,RepTomEmmer
+182,Barry Loudermilk,RepLoudermilk
+183,Sen. Dan Sullivan,SenDanSullivan
+184,David Perdue,sendavidperdue
+185,Brenda Lawrence,RepLawrence
+186,Congressman Ken Buck,RepKenBuck
+187,Gary Palmer,USRepGaryPalmer
+188,Joni Ernst,SenJoniErnst
+189,Rep. Bruce Westerman,RepWesterman
+190,John Ratcliffe,RepRatcliffe
+191,Lee Zeldin,RepLeeZeldin
+192,Rep. Stacey Plaskett,StaceyPlaskett
+193,Rep. John Moolenaar,RepMoolenaar
+194,Alcee L. Hastings,RepHastingsFL
+195,Rob Woodall,RepRobWoodall
+196,Rep. Jimmy Gomez,RepJimmyGomez
+197,Katherine Clark,RepKClark
+198,Rep. Bradley Byrne,RepByrne
+199,Sen. Cory Booker,SenBooker
+200,Rep. Brett Guthrie,RepGuthrie
+201,US Rep Kathy Castor,USRepKCastor
+202,Blaine Luetkemeyer,RepBlaine
+203,Rep. Jason Smith,RepJasonSmith
+204,Joyce Beatty,RepBeatty
+205,U.S. Rep. Billy Long,USRepLong
+206,Rep. Peter Welch,PeterWelch
+207,Robin Kelly,RepRobinKelly
+208,Rep. Duncan Hunter,Rep_Hunter
+209,Rep. Chris Smith,RepChrisSmith
+210,Rep. Juan Vargas,RepJuanVargas
+211,Leader McConnell,senatemajldr
+212,Congresswoman Julia Brownley,RepBrownley
+213,Rep. Tony Cárdenas,RepCardenas
+214,Steve Scalise,SteveScalise
+215,Rep. Mark Pocan,repmarkpocan
+216,Rep. Donald Payne Jr,RepDonaldPayne
+217,Rep. Debbie Wasserman Schultz,RepDWStweets
+218,Rep. Scott Peters,RepScottPeters
+219,Martin Heinrich,MartinHeinrich
+220,Jim Risch,SenatorRisch
+221,Rep. Cheri Bustos,RepCheri
+222,Raul Ruiz,CongressmanRuiz
+223,Rep. Andy Barr,RepAndyBarr
+224,US Rep. Filemon Vela,RepFilemonVela
+225,Kyrsten Sinema,SenatorSinema
+226,Bill Foster,RepBillFoster
+227,Rep. Roger Williams,RepRWilliams
+228,Rep. Lois Frankel,RepLoisFrankel
+229,Sen. Tammy Baldwin,SenatorBaldwin
+230,Senator Ted Cruz,SenTedCruz
+231,Rep. Paul Cook,RepPaulCook
+232,Rep. Marc Veasey,RepVeasey
+233,Susan W. Brooks,SusanWBrooks
+234,Sean Patrick Maloney,RepSeanMaloney
+235,Rep. Chris Stewart,RepChrisStewart
+236,Ted Yoho,RepTedYoho
+237,Rep. Brad Schneider,RepSchneider
+238,Senator Deb Fischer,SenatorFischer
+239,Rep. Jared Huffman,RepHuffman
+240,Rep. Doug LaMalfa,RepLaMalfa
+241,Denny Heck,RepDennyHeck
+242,Senator Angus King,SenAngusKing
+243,Jackie Walorski,RepWalorski
+244,Rep. Tulsi Gabbard,TulsiPress
+245,Rep. Doug Collins,RepDougCollins
+246,Markwayne Mullin,RepMullin
+247,Rep. Derek Kilmer,RepDerekKilmer
+248,Ann McLane Kuster,RepAnnieKuster
+249,Tammy Duckworth,SenDuckworth
+250,George Holding,RepHolding
+251,Congressman Tom Rice,RepTomRice
+252,Rep. Chris Collins,RepChrisCollins
+253,Randy Weber,TXRandy14
+254,Rep. Joe Kennedy III,RepJoeKennedy
+255,Rep. Alan Lowenthal,RepLowenthal
+256,Ann Wagner,RepAnnWagner
+257,Grace Meng,RepGraceMeng
+258,Sen. Kevin Cramer,SenKevinCramer
+259,Rep. Dan Kildee,RepDanKildee
+260,Mark Takano,RepMarkTakano
+261,Rep. Daniel Lipinski,RepLipinski
+262,Rep. Suzan DelBene,RepDelBene
+263,US Rep Rodney Davis,RodneyDavis
+264,Dave Joyce,RepDaveJoyce
+265,Thomas Massie,RepThomasMassie
+266,Elizabeth Warren,SenWarren
+267,Tom Cotton,SenTomCotton
+268,Mark Meadows,RepMarkMeadows
+269,"Rep. Andy Harris, MD",RepAndyHarrisMD
+270,"Ami Bera, M.D.",RepBera
+271,Sen. Maggie Hassan,SenatorHassan
+272,Rep. Eric Swalwell,RepSwalwell
+273,Rep. Mike Kelly,MikeKellyPA
+274,Richard Hudson,RepRichHudson
+275,Pat Tiberi,PatTiberi
+276,Sensenbrenner Press,JimPressOffice
+277,James Comer,KYComer
+278,David Rouzer,RepDavidRouzer
+279,Rep. Danny K. Davis,RepDannyDavis
+280,Elijah E. Cummings,RepCummings
+281,Matt Cartwright,RepCartwright
+282,Ro Khanna,RoKhanna
+283,Senator Mike Crapo,MikeCrapo
+284,Lacy Clay MO1st,LacyClayMO1
+285,Rep. Doug Lamborn,RepDLamborn
+286,Marcy Kaptur,RepMarcyKaptur
+287,Congresswoman Madeleine Dean,RepDean
+288,Suzanne Bonamici,RepBonamici
+289,Hal Rogers,RepHalRogers
+290,Brad Wenstrup,RepBradWenstrup
+291,Rep. Betty McCollum,BettyMcCollum04
+292,Senator Jon Tester,SenatorTester
+293,Dave Loebsack,daveloebsack
+294,Senator Jack Reed,SenJackReed
+295,Rep. Lucille Roybal-Allard,RepRoybalAllard
+296,Sen Dianne Feinstein,SenFeinstein
+297,Hakeem Jeffries,RepJeffries
+298,Rep. Richard Neal,RepRichardNeal
+299,Lindsey Graham,LindseyGrahamSC
+300,Rep. Susan Davis,RepSusanDavis
+301,G. K. Butterfield,GKButterfield
+302,Lance Gooden,RepLanceGooden
+303,Rep. Rick Larsen,RepRickLarsen
+304,RepMarkAmodei,MarkAmodeiNV2
+305,Rep. Steven Horsford,RepHorsford
+306,Jerry McNerney,RepMcNerney
+307,Rep. John Yarmuth,RepJohnYarmuth
+308,Senator John Hoeven,SenJohnHoeven
+309,Rep. Terri A. Sewell,RepTerriSewell
+310,Mac Thornberry Press,MacTXPress
+311,Rep. John Sarbanes,RepSarbanes
+312,Rep. Devin Nunes,RepDevinNunes
+313,Rep. Jared Huffman,JaredHuffman
+314,Linda T. Sánchez,RepLindaSanchez
+315,Rep. Stephen Lynch,RepStephenLynch
+316,Dutch Ruppersberger,Call_Me_Dutch
+317,Bobby L. Rush,RepBobbyRush
+318,Mike Thompson,RepThompson
+319,Cong. Steven Palazzo,CongPalazzo
+320,Senator John Thune,SenJohnThune
+321,Rep. Adrian Smith,RepAdrianSmith
+322,Mike Conaway,ConawayTX11
+323,Senator Patty Murray,PattyMurray
+324,Mike Enzi,SenatorEnzi
+325,HouseVetAffairsGOP,HouseVetAffairs
+326,Daniel Webster,RepWebster
+327,Sen. Marsha Blackburn,MarshaBlackburn
+328,Richard Blumenthal,SenBlumenthal
+329,Rep. Zoe Lofgren,RepZoeLofgren
+330,Rep Cedric Richmond,RepRichmond
+331,Senator Roger Wicker,SenatorWicker
+332,Carolyn  B. Maloney,RepMaloney
+333,Joe Wilson,RepJoeWilson
+334,Tom Reed,RepTomReed
+335,Rep Peter DeFazio,RepPeterDeFazio
+336,Ron Wyden,RonWyden
+337,Senator Tom Carper,SenatorCarper
+338,"Sanford Bishop, Jr.",SanfordBishop
+339,Rep. Anna G. Eshoo,RepAnnaEshoo
+340,Rep. Barbara Lee,RepBarbaraLee
+341,Seth Moulton,sethmoulton
+342,Senator Dick Durbin,SenatorDurbin
+343,House Judiciary Dems,HouseJudiciary
+344,Rep. Jim Costa,RepJimCosta
+345,JaimeHerreraBeutler,HerreraBeutler
+346,Rep. Scott Tipton,RepTipton
+347,Sen. Patrick Leahy,SenatorLeahy
+348,Frank Lucas,RepFrankLucas
+349,Sheldon Whitehouse,SenWhitehouse
+350,Rep. Jim McGovern,RepMcGovern
+351,Yvette D. Clarke,RepYvetteClarke
+352,"Rep. Paul Gosar, DDS",RepGosar
+353,David B. McKinley,RepMcKinley
+354,Rep. Jeff Duncan,RepJeffDuncan
+355,House Homeland GOP,HomelandGOP
+356,Congressmember Bass,RepKarenBass
+357,Rep Tim Walberg,RepWalberg
+358,Rep. Vicky Hartzler,RepHartzler
+359,Rep. Steve Chabot,RepSteveChabot
+360,U.S. Representative Bill Flores,RepBillFlores
+361,Mo Brooks,RepMoBrooks
+362,Senator Gary Peters,SenGaryPeters
+363,Rep. Norma Torres,NormaJTorres
+364,Scott DesJarlais,DesJarlaisTN04
+365,Cory Gardner,SenCoryGardner
+366,Chuck Fleischmann,RepChuck
+367,Rep. Bob Gibbs,RepBobGibbs
+368,"Larry Bucshon, MD",RepLarryBucshon
+369,Rep. Austin Scott,AustinScottGA08
+370,House Ag GOP,HouseAgGOP
+371,Rep. Steve Womack,rep_stevewomack
+372,Senator Joe Manchin,Sen_JoeManchin
+373,Senator Todd Young,SenToddYoung
+374,Morgan Griffith,RepMGriffith
+375,Sean Duffy,RepSeanDuffy
+376,Rep Frederica Wilson,RepWilson
+377,Rep. Bill Huizenga,RepHuizenga
+378,Justin Amash,justinamash
+379,Senator Ron Johnson,SenRonJohnson
+380,Rep Rick Crawford,RepRickCrawford
+381,Congressman Bill Keating,USRepKeating
+382,Joaquin Castro,JoaquinCastrotx
+383,US Rep Brendan Boyle,RepBrendanBoyle
+384,Rep David Schweikert,RepDavid
+385,Sen. James Lankford,SenatorLankford
+386,House Admin. Committee GOP,HouseAdmnGOP
+387,Rep. Martha Roby,RepMarthaRoby
+388,Michael Bennet,SenatorBennet
+389,Nita Lowey,NitaLowey
+390,Senator Pat Toomey,SenToomey
+391,Adam Kinzinger,RepKinzinger
+392,Tim Scott,SenatorTimScott
+393,Senator Rand Paul,RandPaul
+394,Bill Johnson,RepBillJohnson
+395,Steve Stivers,RepSteveStivers
+396,Rep. Henry Cuellar,RepCuellar
+397,Sen. John Barrasso,SenJohnBarrasso
+398,André Carson,RepAndreCarson
+399,Rep. Ben McAdams,RepBenMcAdams
+400,Rep. Pete Visclosky,RepVisclosky
+401,Shelley Moore Capito,SenCapito
+402,Judy Chu,RepJudyChu
+403,Tom Graves,RepTomGraves
+404,James E. Clyburn,WhipClyburn
+405,Tim Kaine,timkaine
+406,Senator Bob Casey,SenBobCasey
+407,David Scott,repdavidscott
+408,US Rep E.B.Johnson,RepEBJ
+409,Rep. Nydia Velazquez,NydiaVelazquez
+410,Eliot Engel,RepEliotEngel
+411,Rep. Emanuel Cleaver,repcleaver
+412,Steve Cohen,RepCohen
+413,Rep. Bobby Scott,BobbyScott
+414,Rep. Kay Granger,RepKayGranger
+415,Rep.Grace Napolitano,gracenapolitano
+416,Congressman Al Green,RepAlGreen
+417,David E. Price,RepDavidEPrice
+418,Lloyd Doggett,RepLloydDoggett
+419,Rep. Marcia L. Fudge,RepMarciaFudge
+420,House Budget Committee,HouseBudgetDems
+421,Chris Murphy,ChrisMurphyCT
+422,Rob Bishop,RepRobBishop
+423,Rosa DeLauro,rosadelauro
+424,Rep. Ted Deutch,RepTedDeutch
+425,Rick Scott,SenRickScott
+426,Fred Upton,RepFredUpton
+427,Dina Titus,repdinatitus
+428,Sen. Maria Cantwell,SenatorCantwell
+429,Joint Economic Committee Democrats,JECDems
+430,Debbie Wasserman Schultz,DWStweets
+431,Energy &amp; Commerce GOP,HouseCommerce
+432,Rep. Ron Kind,RepRonKind
+433,Joe Crowley,JoeCrowleyNY
+434,Sen. Jeanne Shaheen,SenatorShaheen
+435,Joint Economic Committee,JECRepublicans
+436,Senator Ben Cardin,SenatorCardin
+437,Senator Mazie Hirono,maziehirono
+438,Dwight Evans,RepDwightEvans
+439,John Garamendi,RepGaramendi
+440,Mike Lee,SenMikeLee
+441,Rep. Joe Courtney,RepJoeCourtney
+442,Paul Tonko,RepPaulTonko
+443,Bennie G. Thompson,BennieGThompson
+444,Sheila Jackson Lee,JacksonLeeTX18
+445,Gerry Connolly,GerryConnolly
+446,Johnny Isakson,SenatorIsakson
+447,HouseRulesRepublicans,RulesReps
+448,Sen. Lamar Alexander,SenAlexander
+449,Sen. Debbie Stabenow,SenStabenow
+450,Rep. Robert Aderholt,Robert_Aderholt
+451,Cong. Mike Simpson,CongMikeSimpson
+452,House Foreign Affairs GOP,HouseForeignGOP
+453,Senator Pat Roberts,SenPatRoberts
+454,"Bill Pascrell, Jr.",BillPascrell
+455,House Armed Services,HASCDemocrats
+456,Senator Bob Corker,SenBobCorker
+457,House Foreign Affairs Committee,HouseForeign
+458,Tom Udall,SenatorTomUdall
+459,Rep. Adam Smith,RepAdamSmith
+460,Mike Quigley,RepMikeQuigley
+461,Dr. Phil Roe,DrPhilRoe
+462,US Rep. Mike Turner,RepMikeTurner
+463,Rep. John Larson,RepJohnLarson
+464,Tom McClintock,RepMcClintock
+465,Steve King,SteveKingIA
+466,Brian Schatz,brianschatz
+467,Sherrod Brown,SenSherrodBrown
+468,Financial Services GOP,FinancialCmte
+469,Pete Aguilar,aguilarpete
+470,Rep. Lloyd Smucker,RepSmucker
+471,(((Rep. Nadler))),RepJerryNadler
+472,Mike Doyle,USRepMikeDoyle
+473,Robin Kelly,RobinLynneKelly
+474,Rep. Doris Matsui,DorisMatsui
+475,Mario Diaz-Balart,MarioDB
+476,Rep. Don Young,repdonyoung
+477,Maxine Waters,RepMaxineWaters
+478,T&amp;I Committee Republicans,TransportGOP
+479,Mike Rogers,RepMikeRogersAL
+480,Brian Higgins,RepBrianHiggins
+481,José E. Serrano,RepJoseSerrano
+482,Rep. Greg Walden,repgregwalden
+483,Rep. Frank Pallone,FrankPallone
+484,Jim Himes,jahimes
+485,Ways &amp; Means Committee,WaysMeansCmte
+486,Oversight Committee,OversightDems
+487,Energy and Commerce Committee,EnergyCommerce
+488,House Appropriations,AppropsDems
+489,Rep. Brad Sherman,BradSherman
+490,Adam Schiff,RepAdamSchiff
+491,John Lewis,repjohnlewis
+492,Bernie Sanders,SenSanders
+493,Senator Jeff Merkley,SenJeffMerkley
+494,Raul M. Grijalva,RepRaulGrijalva
+495,Rep. Diana DeGette,RepDianaDeGette
+496,Patrick McHenry,PatrickMcHenry
+497,Rep. Walter Jones,RepWalterJones
+498,Michael McCaul,RepMcCaul
+499,Gus Bilirakis,RepGusBilirakis
+500,Bill Posey,congbillposey
+501,Jackie Speier,RepSpeier
+502,Rep. Hank Johnson,RepHankJohnson
+503,Jan Schakowsky,janschakowsky
+504,Kenny Marchant,RepKenMarchant
+505,Eleanor Holmes Norton,EleanorNorton
+506,David Cicilline,davidcicilline
+507,Rep. Tom Cole,TomColeOK04
+508,"Sci, Space, &amp; Tech GOP",housesciencegop
+509,Rep. Gregory Meeks,RepGregoryMeeks
+510,Rep. Gwen Moore,RepGwenMoore
+511,Ken Calvert,KenCalvert
+512,Jim Cooper,repjimcooper
+513,Louie Gohmert,replouiegohmert
+514,Science Committee,HouseScience
+515,Senator Amy Klobuchar,SenAmyKlobuchar
+516,Steny Hoyer,LeaderHoyer
+517,Ed Markey,SenMarkey
+518,Senator Roy Blunt,RoyBlunt
+519,Richard Burr,SenatorBurr
+520,Richard Shelby,SenShelby
+521,Rep. Ed Perlmutter,RepPerlmutter
+522,Rep. Kurt Schrader,RepSchrader
+523,Rep. Vern Buchanan,VernBuchanan
+524,Armed Services,HASCRepublicans
+525,Rep. Pete Olson,RepPeteOlson
+526,Peter Roskam,PeterRoskam
+527,Rep. Kevin Brady,RepKevinBrady
+528,Kevin McCarthy,GOPLeader
+529,Sen. Susan Collins,SenatorCollins
+530,Ben Ray Luján,repbenraylujan
+531,Glenn 'GT' Thompson,CongressmanGT
+532,Rob Portman,senrobportman
+533,Jim Langevin,JimLangevin
+534,Jeff Fortenberry,JeffFortenberry
+535,RepScottPerry,RepScottPerry
+536,Albio Sires,RepSires
+537,Senator Bob Menendez,SenatorMenendez
+538,Senator Jerry Moran,JerryMoran
+539,Rep. Pete King,RepPeteKing
+540,Rep. Jim Jordan,Jim_Jordan
+541,Chris Van Hollen,ChrisVanHollen
+542,Sen. Lisa Murkowski,lisamurkowski
+543,Judge Carter,JudgeCarter
+544,CathyMcMorrisRodgers,cathymcmorris
+545,Dina Titus,dinatitus
+546,Chuck Schumer,SenSchumer
+547,House Ed &amp; Labor Republicans,EdLaborGOP
+548,Virginia Foxx,virginiafoxx
+549,Earl Blumenauer,repblumenauer
+550,Nancy Pelosi,SpeakerPelosi
+551,"Michael Burgess, MD",michaelcburgess
+552,Marco Rubio,marcorubio
+553,John Shimkus,RepShimkus
+554,U.S. Rep. Bob Latta,boblatta
+555,Jared Polis,jaredpolis
+556,Rep. Rob Wittman,RobWittman
+557,Senator Chris Coons,ChrisCoons
+558,Chellie Pingree,chelliepingree
+559,Lindsey Graham,GrahamBlog
+560,Senate Republicans,SenateGOP
+561,Congressman Tim Ryan,RepTimRyan
+562,Senator John Cornyn,JohnCornyn
+563,Ways and Means GOP,WaysandMeansGOP
+564,Steve Daines,SteveDaines
+565,ChuckGrassley,ChuckGrassley
+566,Mark Warner,MarkWarner
+567,Jim Inhofe,JimInhofe
+568,Senator John Boozman,JohnBoozman
